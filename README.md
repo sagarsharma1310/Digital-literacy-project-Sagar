@@ -1,4 +1,4 @@
-Hi, I'm Sagar 
+Hi, I'm Sagar Sharma (25BCE10743)
 I am a first year B.Tech CSE student. I am currently learning the basics of programming and trying to improve my problem solving skills step by step. I am still new to many things, but I am interested in understanding how technology works.
 Right now, I am focusing on core subjects and practicing coding regularly. I believe consistency is more important than speed, so I am trying to learn slowly but properly.
 
